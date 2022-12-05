@@ -9,6 +9,7 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import time
+import math
 
 st.title('グループ制作サンプル')
 
