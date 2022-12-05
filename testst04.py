@@ -9,7 +9,6 @@ import numpy as np
 import pandas as pd
 from PIL import Image
 import time
-
 st.title('グループ制作サンプル')
 
 PAGE = st.sidebar.selectbox(
